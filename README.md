@@ -18,4 +18,5 @@ TODO-LIST:
 		django-admin startproject todo-list-django
 
 4.Run the django project:
-		use the command:"py manage.py runserver"
+		use the command:
+  		py manage.py runserver
